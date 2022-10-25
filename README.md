@@ -7,7 +7,7 @@ Hello 😊!
 💬 Ask me about JavaScript, Python, Java
 ⚡ Fun fact !...!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / SPRING BOOT / REACT NATIVE / PHP / KOTLIN
 
 - 🔭 I’m currently working on this page. 
 
