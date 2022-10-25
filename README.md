@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Senyondo Jordan
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello 😊!
 👯 I’m looking to collaborate on lots of projects
